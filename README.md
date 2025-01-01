@@ -4,8 +4,6 @@
 - ⚡ Fun fact: In the Nash Equilibrium, everyone sticks to their strategy thinking they’re outsmarting others—only to realize they’re all equally "smart."
 
 ---
-🎉🎊✨🥂🎆🎇🎈🎁🍾🎶🎊🥳🍹🌟💫🎤🕺💃🎶🎆🥂🎉🎉🎊✨🥂🎆🎇🎈🎁🍾🎶🎊🥳🍹🌟💫🎤🕺💃🎶🎆🥂🎉🎉🎊✨🥂🎆🎇🎈🎁🍾🎶🎊🥳🍹🌟💫🎤
----
 
 ## 🛠️ **Coding Skills**
 
