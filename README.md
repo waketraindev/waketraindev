@@ -37,8 +37,8 @@
 
 - 🌐 **Low-Latency Networking:** Expertise in designing and optimizing servers for ultra-fast message passing and data
   streaming.
-- 🚦 **Event-Driven Architectures:** Proficient in building asynchronous, non-blocking servers using frameworks like *
-  *Node.js** and **Netty**.
+- 🚦 **Event-Driven Architectures:** Proficient in building asynchronous, non-blocking servers using frameworks like
+  **Node.js** and **Netty**.
 - 🏎️ **Real-Time Systems:** Implementation of real-time protocols for applications like gaming, financial trading, and
   IoT.
 - 💡 **Load Balancing and Optimization:** Experience with tools like **Nginx** and **HAProxy** for efficient traffic
